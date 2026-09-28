@@ -26,6 +26,18 @@ loja-tech-API/
 └── techstore.db
 ```
 
+## Arquitetura do sistema
+
+O sistema TechStore é composto por três módulos principais:
+
+- Front-End desenvolvido com HTML, CSS e JavaScript.
+- Back-End desenvolvido com FastAPI e SQLAlchemy.
+- API externa FakeStore utilizada para obtenção dos produtos.
+
+Os pedidos realizados pelo utilizador são armazenados numa base de dados SQLite.
+
+![Arquitetura do TechStore](images/arquitetura-techstore.png)
+
 ## Funcionalidades
 
 A API permite:
