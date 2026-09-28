@@ -67,8 +67,8 @@ A API permite:
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd loja-tech-API
+git clone https://github.com/luisartursiquara/loja-tech-api
+cd loja-tech-API.git
 ```
 
 ### 2. Instalar as dependências
